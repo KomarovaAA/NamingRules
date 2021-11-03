@@ -1,0 +1,13 @@
+# Rules in this file were initially inferred by Visual Studio IntelliCode from the C:\Users\Alena Komarova\source\repos\NamingRules\NamingRules\ codebase based on best match to current usage at 11/3/2021
+# You can modify the rules from these initially generated values to suit your own policies
+# You can learn more about editorconfig here: https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
+[*.cs]
+
+dotnet_naming_symbols.all_symbols.applicable_kinds = *
+dotnet_naming_symbols.all_symbols.applicable_accessibilities = *
+
+dotnet_naming_style.camel_case_style.capitalization = pascal_case
+
+dotnet_naming_rule.all_members_must_be_capitalized.symbols = all_symbols
+dotnet_naming_rule.all_members_must_be_capitalized.style = camel_case_style
+dotnet_naming_rule.all_members_must_be_capitalized.severity = warning
