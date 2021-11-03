@@ -106,27 +106,27 @@ namespace PascalCase
         }
 
         //interfaces 
-        public interface IPublicInterface
+        public interface PublicInterface
         {
         }
 
-        internal interface IInternalInterface
+        internal interface InternalInterface
         {
         }
 
-        protected interface IProtectedInterface
+        protected interface ProtectedInterface
         {
         }
 
-        protected internal interface IProtectedInternalInterface
+        protected internal interface ProtectedInternalInterface
         {
         }
 
-        private protected interface IPrivateProtectedInterface
+        private protected interface PrivateProtectedInterface
         {
         }
 
-        private interface IPrivateInterface
+        private interface PrivateInterface
         {
         }
 

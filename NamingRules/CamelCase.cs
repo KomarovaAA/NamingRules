@@ -106,27 +106,27 @@ namespace camelCase
         }
 
         //interfaces 
-        public interface iPublicInterface
+        public interface publicInterface
         {
         }
 
-        internal interface iInternalInterface
+        internal interface internalInterface
         {
         }
 
-        protected interface iProtectedInterface
+        protected interface protectedInterface
         {
         }
 
-        protected internal interface iProtectedInternalInterface
+        protected internal interface protectedInternalInterface
         {
         }
 
-        private protected interface iPrivateProtectedInterface
+        private protected interface privateProtectedInterface
         {
         }
 
-        private interface iPrivateInterface
+        private interface privateInterface
         {
         }
 
