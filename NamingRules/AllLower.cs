@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Reflection;
 
-namespace camelCase
+namespace all_lower
 {
     public class public_class
     {
