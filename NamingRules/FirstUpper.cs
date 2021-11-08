@@ -4,7 +4,7 @@
 
 namespace First_upper
 {
-    public class PublicClass
+    public class Public_class
     {
         //classes + abstract methods + abstract events
         internal abstract class Internal_abstract_class
