@@ -56,6 +56,10 @@ namespace PascalCase
         {
         }
 
+        public sealed class IdentityPublicSealedClass
+        {
+        }
+
         //structs
         public struct PublicStruct
         {

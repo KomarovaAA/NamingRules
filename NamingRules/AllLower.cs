@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace all_lower
 {
@@ -263,7 +263,7 @@ namespace all_lower
         private protected const int private_protected_const_field = 5;
         private protected readonly int private_protected_readonly_field = 5;
         private protected static int private_protected_static_field = 5;
-        private int private_field = 6;
+        private readonly int private_field = 6;
         private const int private_const_field = 6;
         private readonly int private_readonly_field = 6;
         private static int private_static_field = 6;
